@@ -20,9 +20,9 @@ No terceiro capítulo foram abordados conceitos de estilização de gráficos e 
 
 Com esses conhecimentos, foram exportados os seguintes gráficos:
 
-![Imigração brasileira para o Canadá (1980 a 2013)](resultados\line_chart_imigracao_brasil_para_o_canada.png)
+![Imigração brasileira para o Canadá (1980 a 2013)](resultados/line_chart_imigracao_brasil_para_o_canada.png)
 
-![Imigração para o Canadá por países da américa do sul (1980 a 2013)](resultados\horizontal_bar_chart_imigracao_paises_america_do_sul_para_o_canada.png)
+![Imigração para o Canadá por países da américa do sul (1980 a 2013)](resultados/horizontal_bar_chart_imigracao_paises_america_do_sul_para_o_canada.png)
 
 Clique [aqui](notebooks/03-customizando-com-matplotlib.ipynb) para acessar o caderno do capítulo 3.
 
