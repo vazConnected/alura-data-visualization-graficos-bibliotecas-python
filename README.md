@@ -37,3 +37,7 @@ Como aplicação desses conhecimentos, foi criado um gráfico com as 10 países 
 Clique [aqui](notebooks/04-conhecendo-a-biblioteca-seaborn.ipynb) para acessar o caderno do capítulo 4.
 
 ## 5. Gráficos interativos com Plotly
+
+No quinto capítulo foi apresentado o Plotly e seus diferentes recursos para criar gráficos interativos. A fim de colocar todos os conhecimentos em prática, foi criar o gráfico interativo [Imigração de países da América do Sul para o Canadá (1980 a 2013)](resultados/america_do_sul_imigracao_para_canada.html).
+
+Clique [aqui](notebooks/05-graficos-interativos-com-plotly.ipynb) para acessar o caderno do capítulo 5.
