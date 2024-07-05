@@ -28,4 +28,12 @@ Clique [aqui](notebooks/03-customizando-com-matplotlib.ipynb) para acessar o cad
 
 ## 4. Conhecendo a biblioteca Seaborn
 
+No quarto capítulo foram abordados a biblioteca Seaborn, aspectos de estilização e a importância das cores para a mensagem a ser transmitida com um gráfico.
+
+Como aplicação desses conhecimentos, foi criado um gráfico com as 10 países de onde mais vieram imigrantes para o Canadá (de 1980 a 2013). As cores foram utilizadas para ressaltar positividade para altos fluxos migratórios para o país.
+
+![Top 10 países que mais imigraram para o Canadá](resultados/top_10_paises_imigracao_canada.png)
+
+Clique [aqui](notebooks/04-conhecendo-a-biblioteca-seaborn.ipynb) para acessar o caderno do capítulo 4.
+
 ## 5. Gráficos interativos com Plotly
